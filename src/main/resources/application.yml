@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Plasma_GraphDB
+  data:
+    neo4j:
+      username: neo4j
+      password: April@2018
+      uri: bolt://localhost
+server:
+  port: 8075
